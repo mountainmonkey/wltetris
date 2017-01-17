@@ -352,28 +352,13 @@ void dead(void)
     int count;
 
     char *info={
-"\nษอออออออออออออออออออออป"
-"\nบ -=WildLife Tetris=- บ"
-"\nบ     Version 1.0     บ"
-"\nบ     By Felix Wu     บ"
-"\nบ     June 5,1993     บ"
-"\nศอออออออออออออออออออออผ"
-"\nFREE WARE"
-"\n     This is a classic tetris type game, it was written in Borland C++ 2.0"
-"\nwith my mode 13h routines.  This is my first game and has been written to"
-"\nenhance my game writing skills.  Sorry there is no Sound Blaster or any kind"
-"\nof sound support yet.  The title and backgrounds were pictures I downloaded"
-"\nfrom BBSes, they do not have any copyright related text.  WildLife Tetris"
-"\nis distributed as public domain, it should not be modified or re-sold.  No"
-"\nfee should be charged for duplication of this game unless with author's"
-"\nagreement.  Any bugs, questions, comments, etc. are welcome.  I can be"
-"\nreached on Structures BBS (416) 778-4193 or electronic mail in the C"
-"\nconferences at Nanet.  Or you can send mail to:"
-"\n"
-"\n                              Felix Wu"
-"\n                          558 Gordon Baker Rd."
-"\n                          North York, Ontario,"
-"\n                          Canada, M2H 3B4.\n"};
+"\nรรรรรรรรรรรรรรรรรรรรรรยป"
+"\nยบ -=WildLife Tetris=- ยบ"
+"\nยบ     Version 1.0     ยบ"
+"\nยบ     By Felix Wu     ยบ"
+"\nยบ     June 5,1993     ยบ"
+"\nรรรรรรรรรรรรรรรรรรรรรรยผ"
+"\nFREE WARE"};
 
     setvgapage();
 
